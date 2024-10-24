@@ -2,7 +2,7 @@
 
 ## Graduanda em Técnologia em Análise e Desenvolvimento de Sistemas - FEPI
 
-Olá! Sou uma estudante apaixonada por programação, tenho 25 anos e estou cursando Análise e Desenvolvimento de Sistemas. Estou sempre em busca de aprender e me aperfeiçoar, dedicando-me com entusiasmo aos desafios do mundo da tecnologia. Tenho uma grande paixão por desenvolvimento front-end e por criar soluções criativas e funcionais. Atualmente, estou em busca da minha primeira experiência profissional na área de programação, onde espero poder contribuir e aprender ainda mais!
+Olá! Sou uma estudante apaixonada por técnologia, tenho 25 anos e estou cursando Análise e Desenvolvimento de Sistemas. Estou sempre em busca de aprender e me aperfeiçoar, dedicando-me com entusiasmo aos desafios do mundo da tecnologia. Tenho uma grande paixão por desenvolvimento front-end e por criar soluções criativas e funcionais. Atualmente, estou em busca da minha primeira experiência profissional na área de programação, onde espero poder contribuir e aprender ainda mais!
 
 Acompanhe comigo o meu processo de desenvolvimento por meio deste perfil!
 
