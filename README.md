@@ -7,8 +7,8 @@ Olá! Sou uma estudante apaixonada por técnologia, tenho 25 anos e estou cursan
 Acompanhe comigo o meu processo de desenvolvimento por meio deste perfil!
 
 # CONTATO ✉️
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+&nbsp; 
 [Clique aqui!](https://www.linkedin.com/in/jurafaoliveira/)
 
 # HABILIDADES 💻
