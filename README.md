@@ -5,7 +5,7 @@ Olá, sou uma desenvolvedora front-end em formação! Atualmente, estou cursando
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Júlia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jukiaoliveira&show_icons=true&theme=radical)
+![Júlia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jukiaoliveira&show_icons=true&theme=radical&cache_seconds=0)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukiaoliveira&layout=compact&theme=radical)
 
