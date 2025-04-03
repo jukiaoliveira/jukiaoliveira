@@ -3,6 +3,13 @@
 
 Olá, sou uma desenvolvedora front-end em formação! Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e adorando criar interfaces que ofereçam a melhor experiência ao usuário. Sempre em busca de novos desafios, estou explorando **JavaScript** e **UI/UX**. Meu objetivo é aprimorar minhas habilidades e contribuir com projetos incríveis.
 
+## 📊 Minhas Estatísticas no GitHub
+
+![Júlia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jukiaoliveira&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukiaoliveira&layout=compact&theme=radical)
+
+
 ## 🛠 Habilidades e Tecnologias
 - **Front-end:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - **Back-end:** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
