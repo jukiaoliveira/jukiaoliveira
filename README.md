@@ -1,7 +1,7 @@
 # Júlia Oliveira
 **Front-End Developer | Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por design e programação**
 
-Olá, sou uma desenvolvedora front-end em formação! Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e adorando criar interfaces que ofereçam a melhor experiência ao usuário. Sempre em busca de novos desafios, estou explorando **JavaScript** e **UI/UX**. Meu objetivo é aprimorar minhas habilidades e contribuir com projetos incríveis.
+Olá, sou uma desenvolvedora front-end em formação! Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e adorando criar interfaces que ofereçam a melhor experiência ao usuário. Sempre em busca de novos desafios, estou explorando **JavaScript**, **React**, **Typescript** e **UI/UX**. Meu objetivo é aprimorar minhas habilidades e contribuir com projetos incríveis.
 
 ## 📊 Minhas Estatísticas no GitHub
 
@@ -17,9 +17,8 @@ Olá, sou uma desenvolvedora front-end em formação! Atualmente, estou cursando
 - **Banco de Dados:** ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 - **Versionamento de Código:** ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 
-## 📂 Meus Projetos
-- [**projeto-extensao**](https://github.com/jukiaoliveira/projeto-extensao.git): Um projeto de extensão que oferece orientações e informações para apoiar famílias de pessoas com o Transtorno do Espectro Autista (TEA).
-- [**devnotes**](https://github.com/jukiaoliveira/devnotes.git): Aplicação de gerenciamento de notas com funcionalidades de fixar, buscar, duplicar e exportar notas em CSV.
+## 📂 Meu Portfólio
+- [**portfolio**](https://juliaoliveira.netlify.app/).
 
 ## 📬 Contato
 - **LinkedIn:** [Júlia Oliveira](https://www.linkedin.com/in/jurafaoliveira/)
