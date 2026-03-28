@@ -28,7 +28,7 @@ Estou sempre em busca de evoluir minhas habilidades e contribuir com projetos qu
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/jukiaoliveira/jukiaoliveira/blob/output/github-contribution-grid-snake.svg)
+![Minhas Contribuições do GitHub](https://raw.githubusercontent.com/jukiaoliveira/jukiaoliveira/output/github-contribution-grid-snake.svg)
 
 ---
 
