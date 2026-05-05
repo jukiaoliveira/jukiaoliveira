@@ -17,15 +17,6 @@ Estou sempre em busca de evoluir minhas habilidades e contribuir com projetos qu
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jukiaoliveira&show_icons=true&theme=radical&cache_seconds=0"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jukiaoliveira&layout=compact&theme=radical"/>
-</div>
-
----
-
 ## Contribuições
 
 ![Gráfico 3D de Contribuições](./profile-3d-contrib/profile-night-green.svg)
